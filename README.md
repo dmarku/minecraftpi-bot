@@ -9,4 +9,4 @@ Currently implemented:
     *   `left()` turns the robot 90 degrees to the left. It will stay in its current position.
     *   `right()` turns the robot 90 degrees to the right. It will stay in its current position.
 
-The "robot" is drawn as a stone block at its current position and a torch indicating its direction.
+The "robot" is drawn as a stone block at its current position and a torch indicating its direction. Drawing updates have to be done manually. "Undrawing" elements is not yet implemented.
